@@ -1,13 +1,11 @@
 # Corporate-HR-People-Analytics-Cube
 
 ## Overview
-
 This project is developed as part of the M-Tech Data Science Internship.
 
 The objective of this project is to clean and deduplicate a messy employee HR database using Python and Pandas, ensuring accurate and consistent employee records. It also aims to perform HR analytics by engineering useful features such as employee tenure and attrition riskandvisualizing key insights through charts and dashboards for better decision-making.
 
 ---
-
 ## Features
 
 - Load employee dataset from Excel
@@ -22,7 +20,6 @@ The objective of this project is to clean and deduplicate a messy employee HR da
 - User-friendly PyQt5 GUI
 
 ---
-
 ## Technologies Used
 
 - Python
@@ -34,7 +31,6 @@ The objective of this project is to clean and deduplicate a messy employee HR da
 - Jupyter Notebook
 
 ---
-
 ## Dataset
 
 The dataset contains employee information, including:
@@ -49,7 +45,6 @@ The dataset contains employee information, including:
 The sample dataset includes duplicate records and inconsistent formatting for demonstrating data cleaning and HR analytics.
 
 ---
-
 ## Project Workflow
 
 1. Load the employee dataset
@@ -62,7 +57,6 @@ The sample dataset includes duplicate records and inconsistent formatting for de
 8. Display results using the PyQt5 GUI
 
 ---
-
 ## Learning Outcomes
 
 - Data Cleaning
@@ -76,17 +70,29 @@ The sample dataset includes duplicate records and inconsistent formatting for de
 
 ---
 ## Screenshots
+
 <img width="1659" height="998" alt="image" src="https://github.com/user-attachments/assets/c0a6e5fa-2cb6-46c6-be29-adcc028caf3e" />
+
 - I have Uploaded the Dataset
+  
 <img width="1598" height="903" alt="image" src="https://github.com/user-attachments/assets/afaa9c8f-289b-431e-b56a-65ac917ca835" />
+
 - It Uploaded Successfully
+
 <img width="1581" height="1011" alt="image" src="https://github.com/user-attachments/assets/8a445842-d14e-4678-afc5-b95bbdfad10e" />
+
 - Then It Gerenate Dashboard for Dataset
+
 <img width="1537" height="1033" alt="image" src="https://github.com/user-attachments/assets/7f68cc83-d1f1-4a7a-8373-3600dbad9a64" />
-- I have Search Fatima Noor Name so see below
+
+- I Search Fatima Noor Name so see below
+
 <img width="1568" height="1019" alt="image" src="https://github.com/user-attachments/assets/a1ffb679-1e01-40b1-9a22-93ebb0a26f83" />
+
 - Now I export The clean Dataset file
+
 <img width="1597" height="979" alt="image" src="https://github.com/user-attachments/assets/7a849726-b742-4f13-94d8-3118cf50feac" />
+
 - Then I press Exit
 
 ## Author
